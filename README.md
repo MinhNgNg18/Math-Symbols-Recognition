@@ -8,10 +8,15 @@ Built using TensorFlow and Streamlit
 
 
 Requirements:
+
 Python 3.x
+
 TensorFlow
+
 Streamlit
+
 OpenCV
+
 Pillow
 
 
@@ -19,6 +24,7 @@ I. Installation:
 1. Clone the repository:
 
 git clone https://github.com/MinhNgNg18/Math-Symbols-Recognition.git
+
 cd Math-Symbols-Recognition
 
 2. Install dependencies:
@@ -37,10 +43,13 @@ Once the model is trained, start the app:
 streamlit run app.py
 
 III. Usage:
+
 Draw a mathematical expression using your mouse on the canvas, and the model will predict the digits and operations.
 
 Model:
+
 A CNN is used for multiclass classification of digits (0-9) and operations ( +, -, *, /).
+
 Data augmentation techniques are used to improve model generalization.
 
 Future Improvements:
