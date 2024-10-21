@@ -1,4 +1,4 @@
-Math Symbols Recognition
+Math Symbols Recognition:
 This project is a deep learning-powered web application designed to recognize handwritten mathematical symbols. Users can input simple math expressions via a canvas, and the app predicts the digits and operations (addition, subtraction, multiplication, and division) using a convolutional neural network (CNN).
 
 Features:
